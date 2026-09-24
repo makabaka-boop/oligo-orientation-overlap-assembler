@@ -1,0 +1,4 @@
+services:
+  assembler:
+    build: .
+    image: read-assembler:1.0.0
